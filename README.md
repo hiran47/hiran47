@@ -1,7 +1,7 @@
 # Hiran Karandeniya
 - 👋 Hi, I’m @hkar9113
 - 👀 I’m interested in Quality Engineering & Engineering Quality!
-- 🌱 I’m currently learning 'unlearning'
+- 🌱 I’m currently learning to 'unlearn'
 - 💞️ I’m looking to collaborate on test automation projects
 - 📫 Reach me on -> Email: hiran.karandeniya@syscolabs.com | hirankarandeniya@gmail.com; Mobile: +94775546368 | +94716326295
 
